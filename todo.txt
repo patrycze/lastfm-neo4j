@@ -1,5 +1,5 @@
 1) Proszę wybrać użytkownika na portalu last.fm, który nie jest zaimportowany do bazy danych.
 Następnie proszę go dodać do bazy danych wraz z jego ulubionymi artystami.
 
-2) Proszę przeiterować po użytkownikach w bazie danych i pobrać ich ulubionych artystów.
+2) Proszę przeiterować po użytkownikach w bazie danych i pobrać ich ulubionych artystów z last.fm.
 
